@@ -2,4 +2,4 @@
 ---
 ![이력서사진](jjy.png)
 
-<img src = jjy.png height = 150 widht = 150
+<img src = jjy.png height = 150 widht = 150>
